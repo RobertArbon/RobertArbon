@@ -12,6 +12,7 @@
 
 ## Research
 
+- **Package**: *Simulations* - a package to run MD simulations using OpenMM. In particular this will run simulations after docking with AutoDockVina (or any simular outputs) and run a fingerprint analysis. 
 - **Paper**: *Deep online learning of molecular kinetics* - WIP.  Online (i.e., 1 epoch) learning of the Koopman operator for molecular kinetics using VAMPnets.
   - **Package**: [Celerity](https://github.com/RobertArbon/online_kinetics) - WIP - package containing the 'online' deep-learning estimators for molecular kinetics
   - [Paper](https://github.com/RobertArbon/online_kinetics_paper) 
