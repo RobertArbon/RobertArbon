@@ -1,6 +1,6 @@
 ## Lex O'brien
 
-- 🔭 I’m currently working on: OpenFF Sage 2.0.0 benchmarking for Sulfonamides.
+- 🔭 I’m currently working on: OpenFF benchmarking for Sulfonamides.
 - 🌱 I’m currently learning: Dash
 - 🤔 I’m looking for help with: Designing and deploying Dash apps
 - 💬 Ask me about: Cheminformatics, Molecular Dynamics 
