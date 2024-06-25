@@ -13,7 +13,7 @@
 ## Research
 
 - **Package**: [Simulations](https://github.com/RobertArbon/simulations) - a package to run MD simulations using OpenMM. In particular this will run simulations after docking with AutoDockVina (or any simular outputs) and run a fingerprint analysis. 
-- **Paper**: *Deep online learning of molecular kinetics* - WIP.  Online (i.e., 1 epoch) learning of the Koopman operator for molecular kinetics using VAMPnets.
+- **Project**: *Deep online learning of molecular kinetics* - WIP.  Online (i.e., 1 epoch) learning of the Koopman operator for molecular kinetics using VAMPnets.
   - **Package**: [Celerity](https://github.com/RobertArbon/online_kinetics) - WIP - package containing the 'online' deep-learning estimators for molecular kinetics
   - **Presentation**: [ScotChem Presentation](https://github.com/RobertArbon/online_kinetics/blob/main/docs/presentation/ScotChem.pdf)
 - **Paper**: *Markov state model sensitivity and hyperparameter optimisation* -  Investigating the sensitivity of Markov state models to pipeline hyperparameters and suitability for Bayesian optimisation.
