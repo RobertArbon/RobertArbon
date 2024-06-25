@@ -1,6 +1,6 @@
 ## Lex O'brien
 
-- 🔭 I’m currently working on: OpenFF benchmarking for Sulfonamides and ABFE calculations for some kinases. 
+- 🔭 I’m currently working on: OpenFF benchmarking for Sulfonamides and [ABFE calculations for RIPK2](https://github.com/RobertArbon/kinase_intermediate_state)  . 
 - 🌱 I’m currently learning: Dash
 - 🤔 I’m looking for help with: Designing and deploying Dash apps
 - 💬 Ask me about: Cheminformatics, Molecular Dynamics 
