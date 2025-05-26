@@ -1,7 +1,7 @@
 ## Lex O'brien
 
-- 🌱 I’m currently learning: Dash
-- 🤔 I’m looking for help with: Designing and deploying Dash apps
+- 🌱 I’m currently learning: streamlit
+- 🤔 I’m looking for help with: deploying data apps
 - 💬 Ask me about: Cheminformatics, Molecular Dynamics 
 - 📫 How to reach me: lex.e.obrien@gmail.com
 - 😄 Pronouns: they/them
